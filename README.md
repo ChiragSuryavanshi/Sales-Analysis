@@ -1,1 +1,1 @@
-# Sales-Analysis
+# Sales-Analysis-SQL-Project 1
